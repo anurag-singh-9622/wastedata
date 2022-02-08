@@ -7,7 +7,7 @@ Save Earth Learn More, Develop More, Change World.
 v0.1
 
 # Usage 
-> Go to this Website https://datawaster.ml/.
+> Go to this Website https://anurag-singh-9622.github.io/wastedata/.
 >
 > Click on Start Wasting 
 > Do Check Advance Options (if you wish).
